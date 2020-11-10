@@ -1,0 +1,41 @@
+Statistics for the terms 'ExtraCellular Matrix Remodeling,ECM,ECM Remodeling '
+
+----------------------------------------------------------------------------------------------------------
+Total Number of abstracts :  22405
+
+
+----------------------------------------------------------------------------------------------------------
+Total number of MeSH Terms : 11770
+
+
+----------------------------------------------------------------------------------------------------------
+Most common MeSH terms with frequency:(25) 
+
+extracellular matrix	1169
+ecm	358
+collagen	209
+fibrosis	183
+tissue engineering	166
+inflammation	138
+matrix metalloproteinase	120
+integrin	119
+angiogenesis	117
+mmp	108
+fibronectin	97
+matrix metalloproteinases	85
+cancer	82
+extracellular matrix (ecm)	79
+metastasis	79
+hydrogel	73
+scaffold	71
+cell adhesion	69
+mechanotransduction	65
+mesenchymal stem cells	64
+wound healing	62
+myocardial infarction	60
+integrins	59
+tumor microenvironment	58
+tgf-β	58
+
+
+----------------------------------------------------------------------------------------------------------
